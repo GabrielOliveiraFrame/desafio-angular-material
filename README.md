@@ -1,5 +1,13 @@
 # DesafioAngularMaterial
 
+O Desafio consiste em construir uma aplicação web em Angular, utilizando o framework ui presentation Angular Material e simulando o backend com a api [Json Placeholder](https://jsonplaceholder.typicode.com/)
+
+O objetivo era realizar a listagem de:
+
+- TO-DOs.
+- POSTAGENS e COMENTARIOS.
+- ALBUNS DE FOTOS.
+  
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
 
 ## Development server
